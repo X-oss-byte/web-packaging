@@ -1,0 +1,6 @@
+ name: next.js
+  job: build web-packing new website 
+   changes: add new capabilities (power using "turbo”）
+    next：import next.js dependencies 
+    build: use builder.io if required 
+     
