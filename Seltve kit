@@ -1,0 +1,18 @@
+src/routes/api/cron/+server.js
+export function GET(req) {
+
+  return new Response('Hello Cron!');
+}
+ Add a cron job to your vercel.json:
+vercel.json
+
+{
+  "crons": [{
+
+    "path": "/api/cron",
+4
+    "schedule": "0 10 * * *"
+5
+  }]
+6
+}
