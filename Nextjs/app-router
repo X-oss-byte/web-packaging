@@ -1,0 +1,24 @@
+import { NextResponse } from 'next/server';
+2
+
+3
+export async function GET() {
+4
+  return NextResponse.json({ ok: true });
+5
+}
+2. Add a cron job to your vercel.json:
+vercel.json
+
+1
+{
+2
+  "crons": [{
+3
+    "path": "/api/cron",
+4
+    "schedule": "0 10 * * *"
+5
+  }]
+6
+}

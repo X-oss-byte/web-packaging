@@ -34,6 +34,9 @@
 	</a>
 	<a href="https://github.com/webpack/webpack/discussions">
 		<img src="https://img.shields.io/github/discussions/webpack/webpack">
+		</a>
+  <a href="https://nextjs.org/Webpack">
+		<img src="https://img.shields.io/@latestnextjsapp/follow/Webpack?style=social">
 	</a>
   <a href="https://twitter.com/Webpack">
 		<img src="https://img.shields.io/twitter/follow/Webpack?style=social">

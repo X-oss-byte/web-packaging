@@ -1,4 +1,4 @@
- name: next.js
+ name: next.js 13
   job: build web-packing new website 
    renovate: use @renovate bot "run tree shaking" but shake easily and roll up
    changes: add new capabilities (power using "turbo”）
