@@ -97,7 +97,7 @@
     "strip-ansi": "^7.1.0",
     "style-loader": "^2.0.0",
     "terser": "^5.17.0",
-    "toml": "^3.0.0",
+    "toml": "^4.1.2",
     "tooling": "webpack/tooling#v1.23.0",
     "ts-loader": "^9.4.2",
     "typescript": "^5.0.4",
